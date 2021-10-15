@@ -1,0 +1,19 @@
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-2$ ./main
+Enter array size: 10
+Enter array elements: 2
+5
+9
+4
+10
+7
+8
+1
+11
+5
+Enter H size: 3
+Enter H elements: 5
+2
+1
+1 2 4 5 5 7 8 9 10 11
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-2$
+

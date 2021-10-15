@@ -1,0 +1,10 @@
+All programs are written in c++, and should be compiled and run.
+
+for compilation on terminal:
+	1) g++ filename.cpp -o main
+
+for running:
+	1) ./main
+	2) follow the instruction prompting on the terminal.
+
+

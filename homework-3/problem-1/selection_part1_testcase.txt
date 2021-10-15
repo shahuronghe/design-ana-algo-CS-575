@@ -1,0 +1,16 @@
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$ g++ sel_sort_part1.cpp -o main
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$ ./main
+Enter array size: 10
+Enter array elements: 4
+6
+8
+15
+20
+22
+10
+3
+9
+2
+2 3 4 6 8 9 10 15 20 22
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$
+

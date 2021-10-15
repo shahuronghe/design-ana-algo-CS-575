@@ -1,0 +1,11 @@
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-3$ ./main
+Enter array size: 6
+Enter array elements: 0
+1
+2
+5
+6
+7
+Not found
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-3$
+

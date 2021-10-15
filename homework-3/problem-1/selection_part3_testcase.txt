@@ -1,0 +1,33 @@
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$ g++ sel_sort_part3.cpp -o main
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$ ./main
+Enter array size: 10
+Enter array elements: 4
+6
+8
+15
+20
+22
+10
+3
+9
+2
+Enter the value for 'k': 4
+2 3 4 6
+Median: 3.5
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$ ./main
+Enter array size: 10
+Enter array elements: 4
+6
+8
+15
+20
+22
+10
+3
+9
+2
+Enter the value for 'k': 5
+2 3 4 6 8
+Median: 4
+sronghe1@remote00:~/design-ana-algo-CS-575/homework-3/problem-1$
+
