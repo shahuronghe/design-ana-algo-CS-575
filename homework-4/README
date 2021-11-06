@@ -1,0 +1,6 @@
+Steps for executing programs:
+	1. g++ filename.cpp -o main
+	2. ./main
+	3. some programs requires user input and some already have hardcoded.
+
+Note: All programs are c++.
