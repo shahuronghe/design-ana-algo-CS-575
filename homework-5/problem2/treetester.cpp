@@ -45,4 +45,15 @@ int main()
 
    cout<<"\nNode count: "<<intBST.nodeCount();
    cout<<endl;
+
+   for(;;){
+	   cout<<"\nEnter node to delete (-999 to stop): ";
+	   int node;
+	   cin>>node;
+	   if(node != -999){
+		   intBST.deleteNode(node);
+	   } else {
+		   break;
+	   }
+   }
 }
